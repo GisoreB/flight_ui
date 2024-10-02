@@ -1,16 +1,9 @@
 # flight_ui
 
-A new Flutter project.
+A new Flutter flight booking app project.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-10-02 160300](https://github.com/user-attachments/assets/09daff43-b442-4619-a116-d1f257f07ef7)
+![Screenshot 2024-10-02 160134](https://github.com/user-attachments/assets/a4ad5d89-ee2d-4cdb-a5b2-ab8125f4e7ac)
